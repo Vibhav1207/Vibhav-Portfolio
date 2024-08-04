@@ -1,2 +1,2 @@
-# vibhavpatel.guthib.io
+# vibhavpatel.github.io
  Portfolio Website
